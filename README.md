@@ -1,5 +1,11 @@
-# Stock_Prediction_Regression
+# Stock Prediction with Regression
 Stock Prediction using yahoo-API for stock prices and Regression Methods from SciKit-Learn
+
+
+Try this markdown:
+
+![Example](https://raw.githubusercontent.com/Stefan850/Stock_Prediction_Regression/master/example.png)
+
 
 ## Getting Started:
  - Install all dependencies (pandas, pandas_datareader,...)
