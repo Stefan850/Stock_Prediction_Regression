@@ -11,7 +11,7 @@ Stock Prediction using yahoo-API for stock prices and Regression Methods from Sc
  - Try new combinations of stocks and Prediction Methods
 
 ## Result
-Regression methods find best correlations - and that is in this example usually the course of the previous day. To predict the future more features like Sediment analysis are necessary that are more related to future than the past.
+Regression methods find best correlations - and that is in this example usually the course of the previous day. To predict the future more features like Sentiment analysis are necessary that are more related to future than the past.
 
 ## Troubleshooting
  - If problems occur with pandas 0.25 install Pandas 0.24
